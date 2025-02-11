@@ -6,7 +6,7 @@ from sklearn.metrics import mean_absolute_error
 
 
 def train_model(input_csv="data/HIVfinaldataset_selected_features.csv", model_output="data/best_trained_model.pkl"):
-    """Trains multiple models using LazyRegressor and selects the best performing one."""
+    """Train multiple models using LazyRegressor and selects the best performing one."""
 
     # Load the dataset with selected features
     dataset = pd.read_csv(input_csv)
