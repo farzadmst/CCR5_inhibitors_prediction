@@ -1,6 +1,6 @@
-# HIV Inhibitor Prediction with Random Forest
+# CCR5 (HIV receptor) Inhibitor Prediction with Random Forest
 
-This repository contains a machine learning project aimed at predicting the pIC50 values of HIV inhibitors based on molecular features. The model uses Random Forest Regressor for predicting inhibitory activity from molecular fingerprints. The project includes feature selection, data preprocessing, and model training to build a predictive model for HIV inhibitors.
+This repository contains a machine learning project aimed at predicting the pIC50 values of CCR5 inhibitors based on molecular features. The model uses Random Forest Regressor for predicting inhibitory activity from molecular fingerprints. The project includes feature selection, data preprocessing, and model training to build a predictive model for HIV inhibitors.
 
 ## Features
 
