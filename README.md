@@ -68,8 +68,7 @@ This repository contains a machine learning project aimed at predicting the pIC5
 
 ## Results
 
-- The model achieves a Mean Absolute Error (MAE) score that indicates how well it predicts the pIC50 values for HIV inhibitors.
-- The Random Forest model is trained on a dataset with molecular fingerprints and pIC50 values, and it performs reasonably well in predicting the activity of new compounds.
+- The trained Random Forest model achieved a Mean Absolute Error (MAE) of 0.58 on the test set. This result indicates that the model's predictions are reasonably close to the actual values, but there is still room for improvement. While an MAE of 0.58 is not bad, further optimizations through hyperparameter tuning, feature engineering, or exploring other machine learning models could lead to better performance and more accurate predictions.
 
 ## Dependencies
 
